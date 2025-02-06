@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "13"
+mappingDefinitions:
+  SAMPLE:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+  WORK:
+    database: YASHDEEP_DEV
+    schema: PROD
+name: PROD
+type: Environment
