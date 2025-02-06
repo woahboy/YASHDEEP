@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "3"
+includeSelector: "+{ location: WORK name: FCT_ORDERS_DETAILS }"
+name: 1DataRefresh
+type: Job
